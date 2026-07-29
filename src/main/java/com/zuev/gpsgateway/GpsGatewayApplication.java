@@ -8,6 +8,6 @@ import static org.springframework.boot.SpringApplication.run;
 public class GpsGatewayApplication {
 
     public static void main(String[] args) {
-        run(GpsGatewayApplication.class);
+        run(GpsGatewayApplication.class, args);
     }
 }
